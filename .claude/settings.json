@@ -1,0 +1,10 @@
+{
+  "title": "Prompt Master Setup",
+  "description": "Claude Code session with prompt-master skill configured for optimizing AI prompts",
+  "skills": {
+    "enabled": ["prompt-master"]
+  },
+  "hooks": {
+    "sessionStart": "echo '✨ Prompt Master loaded — type /prompt-master or ask naturally to optimize your prompts'"
+  }
+}

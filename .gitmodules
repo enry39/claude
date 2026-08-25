@@ -1,0 +1,3 @@
+[submodule ".claude/skills/prompt-master"]
+	path = .claude/skills/prompt-master
+	url = https://github.com/nidhinjs/prompt-master.git
